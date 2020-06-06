@@ -1,4 +1,4 @@
-#How to
+# How to
 
 Both models need to get be ran on a TPU unless alterantive hardware has enough capactiy. They are noted by ..._model.py files.
 
