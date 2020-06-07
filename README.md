@@ -5,8 +5,6 @@ Repository for the paper EMOTIONET: A Multi-Convolutional Neural Network Hierarc
 
 "TensorFlow, the TensorFlow logo and any related marks are trademarks of Google Inc.”
 
-Tensorflow Research Cloud
-
 Research supported with Cloud TPUs from Google's TensorFlow Research Cloud (TFRC).
 
 # File Contents
