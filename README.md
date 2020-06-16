@@ -12,3 +12,8 @@ Research supported with Cloud TPUs from Google's TensorFlow Research Cloud (TFRC
 src - source code for the paper. 
 
 
+# Datasets used
+
+http://vis-www.cs.umass.edu/lfw/
+https://groups.csail.mit.edu/vision/SUN/
+https://www.kdef.se/
