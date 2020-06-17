@@ -14,6 +14,6 @@ src - source code for the paper.
 
 # Datasets used
 
-http://vis-www.cs.umass.edu/lfw/
-https://groups.csail.mit.edu/vision/SUN/
-https://www.kdef.se/
+http://vis-www.cs.umass.edu/lfw/  
+https://groups.csail.mit.edu/vision/SUN/  
+https://www.kdef.se/  
